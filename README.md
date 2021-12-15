@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @omidmokhtari93
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Javascript , Reactjs and Typescript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
       #linkedin https://www.linkedin.com/in/omidmokhtari93
 
